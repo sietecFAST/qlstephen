@@ -1,3 +1,18 @@
+# NEW Fork!!
+
+sietecFAST™ has forked this repository to continue the excellent work of those working on this project before us.  We make no claims as to the intellectual property (if existing) or ownership of this source code prior to the date and time (2014-16-November @ ~0540GMT or ~ 0040CST) of our fork.  Additionally, we will be keeping this project Open source and will add a BSD or similar EULA sometime soon.
+
+**Original Authors:**  Please see the text below the indicator that says "Unmodified text begin here -->" This signifies that anything under this line is part of the original contents of the repository at the time we forked it and has NOT been modified in any way.  Above this line, we have made changes.
+
+	Entry added:             16 November 2014 @ 0052CST
+	Entry author:            zws.SIETEC.sysADMIN
+	Entry Revision ID:       1.0.0
+	sietecFAST Tracking ID:  0052.16112014.evid_1.0.0-1.zws (internal use only)
+	Blame:                   SIETEC
+
+### End modified text by sietecFAST™
+### Unmodified text begin here -->
+
 ## !! UPDATE !!
 
 Hi all. I'm afriad I don't have time to maintain this project any more. I see the issues mounting but I don't have time to answer them. This was a pet project some time ago and I still use the plugin daily and it works just fine for me in it's current form. If anyone would like to step forward and be added a contributor to move it forward, please send me a message.
